@@ -1,20 +1,25 @@
 
 body {
     font-family: Verdana, Geneva, sans-serif;
+    background: url("http://2.bp.blogspot.com/-1RVs5obRN6M/T_pGJPndXWI/AAAAAAAACrw/E_rLWg99Cf8/s1600/Jungle.jpg");
+	background-size: cover;
+	color: white; 
 }
+
 
 #box {
 
     width: 50px;
     height: 50px;
-    background-color: red;
     display:none; 
     position: relative;
-    
+
 }
 
 .bold {
     font-weight: weight;
 }
+
+
         
 
